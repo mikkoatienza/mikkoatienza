@@ -42,3 +42,19 @@ Python · TypeScript · Next.js · LLM agents (Claude, Cursor) · evals and qual
 
 ## Get in touch
 Open to remote AI engineering roles. Reach me on [LinkedIn](https://www.linkedin.com/in/mikko-atienza-54a9122ba/).
+
+---
+
+## Run locally
+
+```bash
+npm install
+npm run dev      # http://localhost:3000
+```
+
+## Build
+
+```bash
+npm run build    # production build; prerenders the single page at /
+npm run start    # serve the production build
+```
