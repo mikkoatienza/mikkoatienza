@@ -2,7 +2,7 @@
 
 **AI Engineer | Building agentic software development factories: coding agents that ship tested, reviewed PRs | Harness, context and evals | AI product feedback systems**
 
-📍 Philippines · Remote · [ciel.codes](https://ciel.codes) · LinkedIn (TODO: add URL)
+📍 Philippines · Remote · [ciel.codes](https://ciel.codes) · https://www.linkedin.com/in/mikko-atienza-54a9122ba/
 
 ---
 
