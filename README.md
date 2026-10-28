@@ -17,7 +17,7 @@ I help build and run a fleet of autonomous coding agents that take a ticket from
 - **Evidence-based audits.** I review agent runs, find the root cause of failures, and contribute fixes upstream.
 - **Safe operations.** Approval gates and audit trails on anything an agent can change.
 
-### Team OS: AI product-feedback extractor and theme engine
+### AI product-feedback extractor and theme engine
 I built the engine that turns customer call transcripts into living theme boards for product teams.
 
 - Themes rebuild nightly across a multi-product portfolio, so the boards reflect what customers are saying now.
