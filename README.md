@@ -41,4 +41,4 @@ I built the engine that turns customer call transcripts into living theme boards
 Python · TypeScript · Next.js · LLM agents (Claude, Cursor) · evals and quality gates · Vercel
 
 ## Get in touch
-Open to remote AI engineering roles. Reach me on LinkedIn (TODO: add URL).
+Open to remote AI engineering roles. Reach me on [LinkedIn](https://www.linkedin.com/in/mikko-atienza-54a9122ba/).
